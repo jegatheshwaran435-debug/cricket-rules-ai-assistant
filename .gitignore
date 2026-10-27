@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.streamlit/secrets.toml
+vectorstore/
+*.log
